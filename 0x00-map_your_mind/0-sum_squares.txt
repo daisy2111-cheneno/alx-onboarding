@@ -1,7 +1,7 @@
 //sum of squares of given input numbers
 
-function(input){
-   sum_of_squares=input^2
+function getSquare($input){
+   $square=$input*$input
 }
 
-print sum_of_squares
+echo $square
