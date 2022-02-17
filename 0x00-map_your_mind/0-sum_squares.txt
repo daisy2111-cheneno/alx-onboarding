@@ -1,0 +1,7 @@
+//sum of squares of given input numbers
+
+function(input){
+   sum_of_squares=input^2
+}
+
+print sum_of_squares
