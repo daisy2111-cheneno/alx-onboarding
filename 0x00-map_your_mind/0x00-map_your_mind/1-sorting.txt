@@ -1,5 +1,0 @@
-function($sorting){
-
-    $sorting +=3;
-}
- echo $sorting;
