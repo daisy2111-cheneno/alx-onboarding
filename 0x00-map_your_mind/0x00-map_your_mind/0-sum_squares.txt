@@ -1,0 +1,7 @@
+//sum of squares of given input numbers
+
+function getSquare($input){
+   $square=$input*$input
+}
+
+echo $square
